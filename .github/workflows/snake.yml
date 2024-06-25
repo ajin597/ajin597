@@ -19,15 +19,22 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       # Generate SVG animations of GitHub contributions graph
       - name: Generate SVG Animation
+        id: generate
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ajin597
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-    
+
+      - name: Save generated SVG files
+        run: |
+          mkdir -p dist
+          mv github-contribution-grid-snake.svg dist/
+          mv "github-contribution-grid-snake-dark.svg?palette=github-dark" dist/
+
       # Push generated SVG files to a specific branch
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.6.0
