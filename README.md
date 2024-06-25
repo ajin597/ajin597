@@ -163,7 +163,7 @@ Windows                  12 hrs 33 mins      ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Ajincosta</a>
+    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Ajincosta</a>
 </div>
 
 <!--x axis divider-->
