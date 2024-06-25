@@ -161,7 +161,7 @@ Windows                  12 hrs 33 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-![snake animation](https://github.com/<seu ajin597>/<seu ajin597>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/ajin597/ajin597/blob/output/github-contribution-grid-snake.svg)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
