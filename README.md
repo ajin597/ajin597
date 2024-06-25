@@ -19,17 +19,17 @@
 import { Person } from 'indonesia';
 
 new Person({
-    name   : 'Deri Kurniawan',
+    name   : 'jebin c',
     title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
+    email  : 'cjebin9@gmail.com',
+    website: 'https://react-port-tau.vercel.app/',
     junior : !!!false,
 }).introduce();
 ```
 
 ```cmd
 D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+Hi, my name is jebin, I'm a Full Stack Developer from India.
 ```
 
 <div align="center">
@@ -84,7 +84,7 @@ Windows                  12 hrs 33 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,html,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
@@ -94,7 +94,7 @@ Windows                  12 hrs 33 mins      ███████████�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=ajin597&hide_border=true&type=png" alt="ajin" /></p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
