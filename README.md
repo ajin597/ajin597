@@ -16,7 +16,7 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'india';
 
 new Person({
     name   : 'jebin c',
@@ -34,7 +34,7 @@ Hi, my name is jebin, I'm a Full Stack Developer from India.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+![](https://komarev.com/ghpvc/?username=ajin597) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/ajin597?label=Followers) ![Stars](https://img.shields.io/github/stars/ajin597?label=Stars)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -53,11 +53,11 @@ Hi, my name is jebin, I'm a Full Stack Developer from India.
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 31 mins       █████████████████░░░░░░░░   67.96 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-CSS                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+React js               8 hrs 31 mins       █████████████████░░░░░░░░   67.96 % 
+JavaScript             2 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Django                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+MySQL                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+TailwindCSS            50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
 VS Code                  12 hrs 33 mins      █████████████████████████   100.00 % 
