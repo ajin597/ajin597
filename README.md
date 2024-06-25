@@ -78,13 +78,13 @@ Windows                  12 hrs 33 mins      ███████████�
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+    <summary><h3 style="display: inline-block">🧑‍💻Languages-Frameworks-Tools🧑‍💻</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwindcss,python,react,django,mysql,git,vscode,figma,vercel,postman,msoffice,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,tailwindcss,python,react,django,mysql,git,vscode,figma,vercel,postman,vite,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
