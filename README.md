@@ -107,29 +107,29 @@ Windows                  12 hrs 33 mins      ███████████�
 
 <div>
   <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan">
+	<a href="https://github.com/ajin597/port">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=port&theme=transparent" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
+	<a href="https://github.com/ajin597/ajin597">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=ajin597&theme=transparent" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+	<a href="https://github.com/ajin597/calculator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=calculator&theme=transparent" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/Deri-Kurniawan/smoothie">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=smoothie&theme=transparent" alt="GitHub Stats" />
+	<a href="https://github.com/ajin597/react-port">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=react-port&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/ajin597/gg">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=gg&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/ajin597/recipe">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=recipe&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/ajin597/movies">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=movies&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/ajin597/medicine">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajin597&repo=medicine&theme=transparent" alt="GitHub Stats" />
     	</a>
 </div>
 
@@ -141,9 +141,9 @@ Windows                  12 hrs 33 mins      ███████████�
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jebincr7/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajin_cr7__/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ajincosta.ajincosta.1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjebin9@gmail.com)
 [![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
   
 </div>
