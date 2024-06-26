@@ -7,6 +7,7 @@
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome! </h2>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jebin!;" />
 </h1>
@@ -100,6 +101,12 @@ Windows                  12 hrs 33 mins      ███████████�
 <!-- custom streak stats: https://git.io/streak-stats -->
 <p align="center"><img src="https://streak-stats.demolab.com?user=ajin597&hide_border=true&type=png" alt="ajin" /></p>
 
+<div align="center">
+	
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajin597)](https://github.com/ajin597/github-profile-trophy)
+
+</div>
+
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
@@ -145,6 +152,8 @@ Windows                  12 hrs 33 mins      ███████████�
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ajincosta.ajincosta.1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjebin9@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6369203924)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=react&logoColor=white)](https://react-port-tau.vercel.app/)
+
 
   
 </div>
@@ -153,11 +162,13 @@ Windows                  12 hrs 33 mins      ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics📈</h3>
 <div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+<a href="https://github.com/ajin597">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajin597&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajin597&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajin597&theme=2077" height="180em" />
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
