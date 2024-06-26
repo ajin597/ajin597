@@ -33,7 +33,7 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
+D:\Ajincosta> React.js
 Hi, my name is jebin, I'm a Full Stack Developer from India.
 ```
 
