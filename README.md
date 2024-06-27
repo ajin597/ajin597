@@ -186,6 +186,17 @@ Windows                  12 hrs 33 mins      ███████████�
     Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Ajincosta</a>
 </div>
 
+# My Awesome Project
+
+This is the README file for my awesome project.
+
+## Support
+
+If you like this project, please consider supporting me by buying me a coffee!
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=ajincosta&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ajincosta)
+
+
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
