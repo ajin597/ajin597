@@ -192,7 +192,7 @@ Welcome to my collection of handwritten notes for web development! These notes a
 
 If you find these handwritten notes valuable, enhance your learning experience by purchasing them! Your purchase supports the creation of more content and helps me improve these notes. Thank you for your support!
 
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ajincosta) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ajincosta)
+[![image](https://img.shields.io/badge/Shop%20Notes-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/ajincosta) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ajincosta)
 
 
 
