@@ -13,6 +13,7 @@
 </h1>
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
+<div align="center">
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
@@ -36,6 +37,7 @@ new Person({
 D:\Ajincosta> React.js
 Hi, my name is jebin, I'm a Full Stack Developer from India.
 ```
+</div>
 
 <div align="center">
 
