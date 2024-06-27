@@ -182,23 +182,27 @@ Windows                  12 hrs 33 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<div align="center">
-    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Ajincosta</a>
-</div>
 
-# My Awesome Project
 
-This is the README file for my awesome project.
+# Handwritten Notes for Web Development
 
-## Support
+Welcome to my collection of handwritten notes for web development!
+These notes are designed to help you learn and understand key concepts in web development with a personal touch.
 
-If you like this project, please consider supporting me by buying me a coffee!
+## Purchase Handwritten Notes
+If you find these handwritten notes valuable, enhance your learning experience by purchasing them!
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=ajincosta&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ajincosta)
+Your purchase supports the creation of more content and helps me improve these notes. Thank you for your support!
+
+[![Shop Notes](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=ajincosta&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ajincosta)
 
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Ajincosta</a>
+</div>
 
 
 
