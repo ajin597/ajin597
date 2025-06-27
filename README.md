@@ -23,7 +23,7 @@
 import { Person } from 'india';
 
 new Person({
-    name   : 'Ajin',
+    name   : 'Jebin c',
     title  : 'Full Stack Developer',
     email  : 'ajincc88@gmail.com',
     website: 'https://react-port-tau.vercel.app/',
@@ -32,8 +32,8 @@ new Person({
 ```
 
 ```cmd
-D:\Ajin> React.js
-Hi, my name is ajin, I'm a Full Stack Developer from India.
+D:\Jebin> React.js
+Hi, my name is jebin, I'm a Full Stack Developer from India.
 ```
 
 <div align="center">
@@ -198,7 +198,7 @@ If you find these handwritten notes valuable, enhance your learning experience b
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">Ajin</a>
+    Made with ❤️ by <a href="https://react-port-tau.vercel.app/" target="_blank">jebin costa</a>
 </div>
 
 
