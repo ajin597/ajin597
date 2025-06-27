@@ -1,8 +1,8 @@
-name: Generate Snake1
+name: Generate Snake13
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hoursk
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -24,9 +24,15 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
 
+      - name: Validate Generated Files
+        run: |
+          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
+            echo "Error: SVG file was not generated"
+            exit 1
+          fi
+
       - name: Copy SVG for GitHub Pages
         run: |
-          mkdir -p dist
           cp dist/github-contribution-grid-snake.svg dist/snake.svg
 
       - name: Deploy to GitHub Pages
