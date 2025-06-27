@@ -14,17 +14,23 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: ajin597  # Replace with your GitHub username
+          github_user_name: ajin597
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
-      
-      - uses: crazy-max/ghaction-github-pages@v4
+
+      - name: Copy SVG for GitHub Pages
+        run: |
+          mkdir -p dist
+          cp dist/github-contribution-grid-snake.svg dist/snake.svg
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
